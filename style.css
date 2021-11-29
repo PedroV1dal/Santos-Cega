@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgba(170, 243, 167, 0.808);
+}
+.container-fluid {
+  padding: 12px;
+}
+.navbar-brand img {
+  margin-left: 60px;
+}
+.navbar-nav {
+  margin: auto;
+  font-size: 22px;
+  font-weight: bolder;
+}
+.nav-link a {
+  color: #4c4c4c;
+  display: block;
+}
+.btn {
+  margin-right: 70px;
+}
+.btn-send-f {
+  width: 250px;
+  margin-top: 20px;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+}
+.btn-send-f:hover {
+  background-color: #000;
+  color: #fff;
+}
+.card-title {
+  font-size: 20px;
+}
+.card-footer button {
+  margin: auto;
+}
+.card {
+  font-weight: bolder;
+}
+.card-text,
+.card-title {
+  text-align: justify;
+  color: #000;
+  font-size: 16px;
+}
+.img-responsive {
+  width: 80px;
+  margin: 25px 25px;
+}
+.img img {
+  margin-top: 15px;
+}
+.form-check-label {
+  margin-left: 10px;
+}
+.footer {
+  margin: 10px 0;
+}
+.footer a {
+  padding: 10px;
+}
